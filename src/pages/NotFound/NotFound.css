@@ -1,0 +1,11 @@
+.Not-Found {
+    text-align: center;
+}
+.Not-Found h2 {
+    font-weight: bold;
+    font-size: 100px;
+}
+.Not-Found h3 {
+    font-weight: bold;
+    font-size: 50px;
+}
